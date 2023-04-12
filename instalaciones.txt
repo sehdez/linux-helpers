@@ -1,0 +1,12 @@
+#Manual de instalaciones de Linux
+```
+EXTENSIÓN   		COMANDO
+.deb      -	apt-get install ./nombre_del_archivo.deb
+.tar.gz   -	tar xvzf nombre_del_archivo.tar.gz 
+		  - navegar a la carpeta nueva
+		  - ./Configure
+		  ** Si no tiene ese archivo, dar 2click en el archivo del programa
+		  - executar el comando 'make' para compilar
+		  - make install
+```	  
+
